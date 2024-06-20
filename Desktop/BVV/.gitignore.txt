@@ -1,0 +1,2 @@
+~/Desktop/BVV/temp
+~/Desktop/BVV/log/some.tmp
